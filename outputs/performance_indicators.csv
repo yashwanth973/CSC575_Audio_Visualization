@@ -1,0 +1,13 @@
+Objective,Status,Evidence
+Audio preprocessing,Complete,Pipeline loads and preprocesses audio files
+Feature extraction,Complete,"MFCC, chroma, spectral, ZCR, RMS extracted"
+Waveform visualization,Complete,Waveform PNG generated
+Spectrogram visualization,Complete,Spectrogram PNG generated
+FFT visualization,Complete,FFT magnitude plot generated
+Similarity computation,Complete,Euclidean and cosine matrices generated
+Nearest-neighbor retrieval,Complete,Neighbor CSV files generated
+PCA visualization,Complete,PCA coordinates and plot generated
+t-SNE visualization,Complete,Generated if at least 3 files are available
+Quantitative retrieval evaluation,Complete,Requires repeated class labels
+Interactive browser,Complete,Available through Streamlit app
+Dataset size,6 files,More files improve evaluation strength

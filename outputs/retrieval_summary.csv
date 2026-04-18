@@ -1,0 +1,7 @@
+query_file,query_label,euclidean_top1,euclidean_top1_label,cosine_top1,cosine_top1_label,same_top1_neighbor,euclidean_top1_correct_label,cosine_top1_correct_label
+Hukum - Thalaivar Alappara (PenduJatt.Co...,class1,God Mode,class3,God Mode,class3,True,False,False
+Leo - Ratata Video Thalapathy Vijay Anir...,class1,Raavana Mavandaa,class3,Raavana Mavandaa,class3,True,False,False
+Aaya Sher,class2,Oru Peru Varalaaru,class2,Raavana Mavandaa,class3,False,True,False
+Oru Peru Varalaaru,class2,God Mode,class3,Hukum - Thalaivar Alappara (PenduJatt.Co...,class1,False,False,False
+God Mode,class3,Hukum - Thalaivar Alappara (PenduJatt.Co...,class1,Hukum - Thalaivar Alappara (PenduJatt.Co...,class1,True,False,False
+Raavana Mavandaa,class3,Leo - Ratata Video Thalapathy Vijay Anir...,class1,Leo - Ratata Video Thalapathy Vijay Anir...,class1,True,False,False
